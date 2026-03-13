@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=180&section=header&text=godten-cmd&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Developer%20interested%20in%20Finance%20%26%20Digital%20Assets&descSize=16&descAlignY=58&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=160&section=header&text=Software_Developer&fontSize=42&fontColor=ffffff&fontAlignY=45)
 
 <div align="center">
 
