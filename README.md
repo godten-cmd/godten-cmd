@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=180&section=header&text=godten-cmd&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Developer%20interested%20in%20Finance%20%26%20Digital%20Assets&descAlignY=58&descSize=16)
+
 <div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=godten-cmd&left_color=gray&right_color=1D9E75)
@@ -9,6 +11,12 @@
 <br/>
 
 **godten-cmd** · 한양대학교 정보시스템학과
+
+<br/>
+
+> 몰입하는 개발자. 금융과 디지털 자산이 움직이는 곳에 관심이 있습니다.  
+> 실시간 데이터가 흐르는 시스템을 설계하고, 그 안에서 의미 있는 것을 만드는 일에 매력을 느낍니다.  
+> 직접 투자하고, 직접 만들고, 직접 공부합니다.
 
 ---
 
@@ -29,20 +37,20 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="https://github-card-api-theta.vercel.app/api/card?id=finfolo" width="100%" /></td>
-    <td width="50%"><img src="https://github-card-api-theta.vercel.app/api/card?id=safeon" width="100%" /></td>
+    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=finfolo" width="100%" /></td>
+    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=safeon" width="100%" /></td>
   </tr>
   <tr>
-    <td width="50%"><img src="https://github-card-api-theta.vercel.app/api/card?id=bodyclick" width="100%" /></td>
-    <td width="50%"><img src="https://github-card-api-theta.vercel.app/api/card?id=iveread" width="100%" /></td>
+    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=bodyclick" width="100%" /></td>
+    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=iveread" width="100%" /></td>
   </tr>
   <tr>
-    <td width="50%"><img src="https://github-card-api-theta.vercel.app/api/card?id=zerosumgame" width="100%" /></td>
-    <td width="50%"><img src="https://github-card-api-theta.vercel.app/api/card?id=goemotion" width="100%" /></td>
+    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=zerosumgame" width="100%" /></td>
+    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=goemotion" width="100%" /></td>
   </tr>
   <tr>
-    <td width="50%"><img src="https://github-card-api-theta.vercel.app/api/card?id=hyblock" width="100%" /></td>
-    <td width="50%"><img src="https://github-card-api-theta.vercel.app/api/card?id=kbo" width="100%" /></td>
+    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=hyblock" width="100%" /></td>
+    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=kbo" width="100%" /></td>
   </tr>
 </table>
 
@@ -67,5 +75,7 @@
 </picture>
 
 ---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=100&section=footer)
 
 ✉ swy33970@gmail.com &nbsp;·&nbsp; 📸 [instagram.com/thefinders.kr](https://instagram.com/thefinders.kr)
