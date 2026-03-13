@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=godten-cmd&left_color=gray&right_color=1D9E75)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=몰입하는+개발자;금융과+디지털+자산이+움직이는+곳에+관심이+있습니다)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=몰입하는+개발자;금융과+디지털+자산이+움직이는+곳에+관심이+있습니다)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td width="50%"><img src="https://github-card-api-theta.vercel.app/api/card?id=hyblock" width="100%" /></td>
-    <td width="50%"></td>
+    <td width="50%"><img src="https://github-card-api-theta.vercel.app/api/card?id=kbo" width="100%" /></td>
   </tr>
 </table>
 
@@ -60,7 +60,11 @@
 
 ---
 
-![snake gif](https://github.com/godten-cmd/godten-cmd/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/godten-cmd/godten-cmd/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/godten-cmd/godten-cmd/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/godten-cmd/godten-cmd/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
