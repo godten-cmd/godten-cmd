@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=180&section=header&text=godten-cmd&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Developer%20interested%20in%20Finance%20%26%20Digital%20Assets&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=180&section=header&text=godten-cmd&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Developer%20interested%20in%20Finance%20%26%20Digital%20Assets&descSize=16&descAlignY=58&descColor=ffffff)
 
 <div align="center">
 
@@ -37,20 +37,20 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=finfolo" width="100%" /></td>
-    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=safeon" width="100%" /></td>
+    <td width="50%"><a href="https://github.com/folo-app"><img src="https://github-card-api-nine.vercel.app/api/card?id=finfolo" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/SWE-SafeOn"><img src="https://github-card-api-nine.vercel.app/api/card?id=safeon" width="100%" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=bodyclick" width="100%" /></td>
-    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=iveread" width="100%" /></td>
+    <td width="50%"><a href="https://github.com/madcamp-BodyClick"><img src="https://github-card-api-nine.vercel.app/api/card?id=bodyclick" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/IVEread"><img src="https://github-card-api-nine.vercel.app/api/card?id=iveread" width="100%" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=zerosumgame" width="100%" /></td>
-    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=goemotion" width="100%" /></td>
+    <td width="50%"><a href="https://github.com/ZeroSum-Game"><img src="https://github-card-api-nine.vercel.app/api/card?id=zerosumgame" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/godten-cmd/GoEmotions"><img src="https://github-card-api-nine.vercel.app/api/card?id=goemotion" width="100%" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=hyblock" width="100%" /></td>
-    <td width="50%"><img src="https://github-card-api-nine.vercel.app/api/card?id=kbo" width="100%" /></td>
+    <td width="50%"><a href="https://github.com/godten-cmd"><img src="https://github-card-api-nine.vercel.app/api/card?id=hyblock" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/godten-cmd/STATIZ-KBO2026"><img src="https://github-card-api-nine.vercel.app/api/card?id=kbo" width="100%" /></a></td>
   </tr>
 </table>
 
