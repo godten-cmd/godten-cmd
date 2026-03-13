@@ -20,15 +20,51 @@
 
 ### Projects
 
-| 프로젝트 | 설명 | 스택 |
-|---|---|---|
-| **FinFolio** `진행 중` | 투자 포트폴리오 공유 플랫폼. 거래 반응, 리마인더, GitHub식 기여 그래프 | Spring Boot · PostgreSQL · Redis · WebSocket |
-| **SafeOn** `LG전자 산학` | 실시간 IoT 이상 감지. MQTT → ML → Spring → Flutter | Spring Boot · Flutter · MQTT · ML |
-| **BodyClick** | Three.js 기반 3D 헬스케어 플랫폼 | React · Three.js · Zustand |
-| **IVEread** | 독서 기록 · 공유 커뮤니티 앱 (BE 담당) | TypeScript · Node.js |
-| **ZeroSumGame** | 금융 · 경제 개념 학습 게임 | TypeScript |
-| **GoEmotion** `ML` | 텍스트 기반 감정 분석 모델 | Python · NLP |
-| **Hyblock** `블록체인 학회` | 한양대 블록체인 학회 비즈니스팀. 디지털 자산 스터디 및 프로젝트 기획 | Blockchain · Web3 |
+<table>
+  <tr>
+    <td width="50%">
+      <h4>📈 FinFolio <sup>진행 중</sup></h4>
+      <p>투자 포트폴리오 공유 플랫폼. 거래 반응, 리마인더, GitHub식 기여 그래프</p>
+      <p><code>Spring Boot</code> <code>PostgreSQL</code> <code>Redis</code> <code>WebSocket</code></p>
+    </td>
+    <td width="50%">
+      <h4>🔐 SafeOn <sup>LG전자 산학</sup></h4>
+      <p>실시간 IoT 이상 감지. MQTT → ML → Spring → Flutter 파이프라인</p>
+      <p><code>Spring Boot</code> <code>Flutter</code> <code>MQTT</code> <code>ML</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🩺 BodyClick</h4>
+      <p>Three.js 기반 3D 헬스케어 플랫폼. 인체 모델 인터랙션 UX 설계</p>
+      <p><code>React</code> <code>Three.js</code> <code>Zustand</code></p>
+    </td>
+    <td width="50%">
+      <h4>📖 IVEread</h4>
+      <p>독서 기록 · 공유 커뮤니티 앱. BE 담당</p>
+      <p><code>TypeScript</code> <code>Node.js</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🎮 ZeroSumGame</h4>
+      <p>금융 · 경제 개념을 게임으로 학습하는 프로젝트</p>
+      <p><code>TypeScript</code></p>
+    </td>
+    <td width="50%">
+      <h4>🤖 GoEmotion <sup>ML</sup></h4>
+      <p>텍스트 기반 감정 분석 모델</p>
+      <p><code>Python</code> <code>NLP</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h4>⛓ Hyblock <sup>블록체인 학회</sup></h4>
+      <p>한양대 블록체인 학회 비즈니스팀. 블록체인 · 디지털 자산 스터디 및 프로젝트 기획</p>
+      <p><code>Blockchain</code> <code>Web3</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
