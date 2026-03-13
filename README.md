@@ -1,6 +1,13 @@
+<div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=godten-cmd&left_color=gray&right_color=1D9E75)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=몰입하는+개발자;금융과+디지털+자산이+움직이는+곳에+관심이+있습니다)](https://git.io/typing-svg)
+
+</div>
+
 # godten-cmd
 
-몰입하는 개발자. 금융과 디지털 자산이 움직이는 곳에 관심이 있습니다.  
 한양대학교 정보시스템학과
 
 ---
@@ -22,7 +29,7 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="https://github-card-api-theta.vercel.app/api/card?id=finfolio" width="100%" /></td>
+    <td width="50%"><img src="https://github-card-api-theta.vercel.app/api/card?id=finfolo" width="100%" /></td>
     <td width="50%"><img src="https://github-card-api-theta.vercel.app/api/card?id=safeon" width="100%" /></td>
   </tr>
   <tr>
@@ -34,13 +41,26 @@
     <td width="50%"><img src="https://github-card-api-theta.vercel.app/api/card?id=goemotion" width="100%" /></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://github-card-api-theta.vercel.app/api/card?id=hyblock" width="100%" /></td>
+    <td width="50%"><img src="https://github-card-api-theta.vercel.app/api/card?id=hyblock" width="100%" /></td>
+    <td width="50%"></td>
   </tr>
 </table>
 
 ---
 
+### Wakatime Stats
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=godten_cmd&layout=compact&theme=graywhite&hide_border=true)](https://wakatime.com/@godten_cmd)
+
+---
+
+### GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=godten-cmd&show_icons=true&theme=graywhite&hide_border=true)
+
+---
+
+![snake gif](https://github.com/godten-cmd/godten-cmd/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
