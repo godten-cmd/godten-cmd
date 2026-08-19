@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=90&section=header&text=godten-cmd&fontSize=30&fontColor=ffffff&fontAlign=center&fontAlignY=55)
+# godten-cmd
 
-**godten-cmd** · 한양대학교 정보시스템학과
-금융 도메인 AI 에이전트 개발자
+한양대학교 정보시스템학과 · 금융 도메인 AI 에이전트 개발자
 
 ---
 
