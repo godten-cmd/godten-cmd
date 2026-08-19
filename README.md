@@ -6,7 +6,7 @@
 
 ### Stack
 
-`Java` `Spring Boot` `PostgreSQL` `Redis` `WebSocket` `TypeScript` `Flutter` `Dart`
+`Java` 'Python' `Spring Boot` `PostgreSQL` `Redis` `WebSocket` `TypeScript` `Flutter` `Dart`
 
 ---
 
